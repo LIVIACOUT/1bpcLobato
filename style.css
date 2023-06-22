@@ -1,1 +1,9 @@
+h1 {
+    text-align: center;
+    font-size: 25px;
+    color:blue(98,190,17),
 
+}
+body{
+    background-color: blue;
+}
